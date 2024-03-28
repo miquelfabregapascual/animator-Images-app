@@ -4,11 +4,11 @@ This Android app showcases various animations on images using ObjectAnimator. Us
 
 ## Screenshots
 - X Axis Translation
-- 
+  
   ![X Axis](/images/xAxis.PNG)
   
 - Y Axis Translation
-- 
+  
   ![Y Axis](/images/yAxis.PNG)
   
 - Alpha Transparency
@@ -16,19 +16,19 @@ This Android app showcases various animations on images using ObjectAnimator. Us
   ![Alpha Transparency](/images/alphaTranspare.PNG)
   
 - Rotation
-- 
+  
   ![Rotation](/images/rotation.PNG)
   
 - X Rotation Alpha
-- 
+  
   ![X Rotation Alpha](/images/x-rotationaAlpha.PNG)
   
 - Scaling
-- 
+  
   ![Scaling](/images/scaling.PNG)
   
 - Loop Animation
-- 
+  
   ![Loop](/images/loop.PNG)
 
 ## Features
