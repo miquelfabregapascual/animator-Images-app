@@ -12,7 +12,7 @@ This Android app showcases various animations on images using ObjectAnimator. Us
   ![Y Axis](/images/yAxis.PNG)
   
 - Alpha Transparency
-- 
+  
   ![Alpha Transparency](/images/alphaTranspare.PNG)
   
 - Rotation
